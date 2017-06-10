@@ -1,5 +1,5 @@
 {
-    "name": "lumifyph/trackable",
+    "name": "lumifycode/trackable",
     "license": "MIT",
     "description": "A Laravel package to track history of your models",
     "keywords": ["track", "model", "history", "revision", "laravel"],
